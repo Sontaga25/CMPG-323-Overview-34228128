@@ -1,7 +1,8 @@
 # CMPG-323-Overview-34228128
 Overview repository for the  semester projects
 
-##Digram of how each repository will be integrated 
+##Digram of how each repository will be integrated
+Pleease refer to the image called repo_integrating in this repository 
 
 **###Which Repostories will be created for which project**
 A repository will be creeated for each project, below is the list of all the repository that will be created throughout the semester for each project 
@@ -11,7 +12,7 @@ A repository will be creeated for each project, below is the list of all the rep
   CMPG 323 Project 4 - 34228128
    CMPG 323 Project 4 - 34228128
  
-** Also note that the only repository currently made is the "CMPG 323 Project Overview - 34228128" the rest will be created as time casue and will then hyperlinks once they aer made**
+** Also note that the only repository currently made is the "CMPG 323 Project Overview - 34228128" the rest will be created as time casue and will then hyperlinks once they are made**
   
 **####Branching strategy **
 The branching strategy that I'll be using throughout the semester in the various projects will be "feature branching." The reason I chose this strategy is that I'll be working alone throughout the semester, and because of that, there is no need for me to use complex branching strategies that are mostly suited for the development that usually takes place in groups. In addition to the abovementioned reasons, feature branching is suitable for short delivery cycles and continuous delivery, which is basically what we'll be doing throughout the semester.
